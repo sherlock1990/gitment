@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/sherlock1990/gitment/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### [Markdown1](markdown1.md)
+### [Markdown1](https://github.com/sherlock1990/gitment/edit/master/markdown1.md)
 第一篇文章不错。
 
 ----
